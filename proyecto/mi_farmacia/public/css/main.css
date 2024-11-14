@@ -1,0 +1,29 @@
+body{
+  width:800px;
+  margin: 0 auto;
+}
+th{
+  background-color: rgb(19, 182, 223);
+  color: rgb(75, 10, 226);
+}
+tr:nth-child(even){
+  background-color: hsl(180, 30%, 96%);
+}
+h1{
+  text-align: center;
+}
+fieldset{
+  background-color: hsl(310, 17%, 93%);
+  max-width: 100%;
+  padding: 16px;
+}
+legend{
+  margin-bottom: 0;
+  margin-left: 16px;
+}
+input[type=text]{
+  width: 100%;
+}
+.cien{
+  width:100%;
+}
